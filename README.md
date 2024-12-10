@@ -1,1 +1,1 @@
-Valtimo-Tools.
+Valtimo-Tools
